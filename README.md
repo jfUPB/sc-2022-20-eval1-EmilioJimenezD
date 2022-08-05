@@ -10,6 +10,5 @@ https://sistemascomputacionales.readthedocs.io/es/latest/_intro/evalVersionContr
 
 1. git clone github.com/jfUPB/sc-2022-20-eval1-EmilioJimenezD
 2. git add main.c
-3. git add main.c
-4. git commit -am "NombreDeEsteCommit"
-5. git push
+3. git commit -am "NombreDeEsteCommit"
+4. git push
