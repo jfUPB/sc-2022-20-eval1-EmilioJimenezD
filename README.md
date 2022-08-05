@@ -8,7 +8,7 @@ Texto muy corto adicionado jaja jeje jiji jojo juju
 https://sistemascomputacionales.readthedocs.io/es/latest/_intro/evalVersionControl.html
 
 
-- git clone github.com/jfUPB/sc-2022-20-eval1-EmilioJimenezD
-- git add main.c
-- git commit -am "NombreDeEsteCommit"
-- git push
+1. git clone github.com/jfUPB/sc-2022-20-eval1-EmilioJimenezD
+2. git add main.c
+3. git commit -am "NombreDeEsteCommit"
+4. git push
